@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.tuyucel.activship.StartActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/buttonSelectImage"
+            android:background="@color/colorPrimary"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_margin="15dp"
+            android:textColor="#ffffff"
+            android:text="Avatar Seç"/>
+
+        <ImageView
+            android:layout_gravity="center"
+            android:id="@+id/imageView"
+            android:layout_width="150dp"
+            android:layout_height="150dp" />
+
+        <Button
+            android:id="@+id/buttonSaveImage"
+            android:background="@color/colorAccent"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_margin="15dp"
+            android:layout_marginBottom="20dp"
+            android:textColor="#ffffff"
+            android:text="Kaydet"/>
+
+
+        <Button
+            android:id="@+id/buttonSignOut"
+            android:background="@color/colorPrimaryDark"
+            android:layout_margin="15dp"
+            android:layout_marginBottom="20dp"
+            android:text="Çıkış Yap"
+            android:textColor="#ffffff"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+
+
+
+</RelativeLayout>

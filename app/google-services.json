@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "455475287297",
+    "firebase_url": "https://activityship-f9ef7.firebaseio.com",
+    "project_id": "activityship-f9ef7",
+    "storage_bucket": "activityship-f9ef7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455475287297:android:b7700dd38c9d1404",
+        "android_client_info": {
+          "package_name": "com.example.tuyucel.activship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455475287297-puqtu2720j2gg550ro1jbii6luvgfoee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tuyucel.activship",
+            "certificate_hash": "5e0ec8b785a803529cf87b444d30db45560fce34"
+          }
+        },
+        {
+          "client_id": "455475287297-i4s2jk9llmodkbfm1grkk27d6u84o6ou.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "455475287297-i4s2jk9llmodkbfm1grkk27d6u84o6ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtOvAXb_WaMTYrCNmREeX9rtxkqGNScjY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455475287297-i4s2jk9llmodkbfm1grkk27d6u84o6ou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
